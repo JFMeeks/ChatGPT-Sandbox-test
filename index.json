@@ -1,0 +1,30 @@
+{
+    "icon": "fa-ChatGPT",
+    "title": "ChatGPT Sandbox",
+    "description": "Explore ChatGPT in a sandboxed environment",
+    "authenticated": false,
+    "details": {
+        "steps": [
+            {
+                "text": "step1.md"
+            }
+        ],
+        "intro": {
+            "text": "intro.md",
+            "foreground": "foreground.sh"
+        },
+        "finish": {
+            "text": "finish.md"
+        }
+    },
+    "environment": {
+        "showdashboard": false,
+        "hidesidebar": false,
+        "hidefinish": false,
+        "uilayout": "vscode-terminal-split",
+        "uimessage1": "\u001b[32mRun commands against Kubernetes clusters using kubectl command.\r\nTry running `kubectl version` to see what version of Kubernetes is installed.\u001b[m\r\n"
+    },
+    "backend": {
+        "imageid": "Ubuntu 22.04"
+    }
+}
