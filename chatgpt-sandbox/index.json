@@ -21,7 +21,7 @@
         "showdashboard": false,
         "hidesidebar": false,
         "hidefinish": false,
-        "uilayout": "vscode-terminal-split",
+        "uilayout": "terminal",
         "uimessage1": "\u001b[32mRun commands against Kubernetes clusters using kubectl command.\r\nTry running `kubectl version` to see what version of Kubernetes is installed.\u001b[m\r\n"
     },
     "backend": {
