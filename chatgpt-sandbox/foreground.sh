@@ -12,5 +12,5 @@ echo "export PATH=\"\$PATH:$directory\"" >> ~/.bashrc
 clear
 
 # Run the installed script (optional)
-"$directory/sgpt" --help
+sgpt --help
 
