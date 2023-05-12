@@ -1,6 +1,6 @@
 ##### ChatGPT Sandbox
 
-This is a ChatGPT sandbox, a safe place designed for experimenting, exploring, and learning ChatGPT. You can type commands in the terminal on the right and see their output.
+This is a ChatGPT sandbox, a safe place designed for experimenting, exploring, and learning ChatGPT. You can type commands in the terminal on the right and see their output
 
 #### Prerequisite
 
