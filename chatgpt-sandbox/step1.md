@@ -1,3 +1,5 @@
+<img align="right" src="./assets/ChatGPT.png" width="65" />
+
 ## OpenAI API Key
 
 The first step will be to obtain an [OpenAI API](https://platform.openai.com/account/api-keys) key.
